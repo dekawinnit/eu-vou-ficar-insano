@@ -1,6 +1,5 @@
 ---
-title: Índice
+title: Personalidades
 draft: false
 tags:
 ---
-1. [[Arton]]

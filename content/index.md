@@ -8,8 +8,8 @@ O Grimório do Conhecimento Infinito é um grande tomo, lotado das mais diversas
 
 Inicialmente um presente de *Tanna-Toh* Para seus mais devotos seguidores, agora perdido para as areias do tempo.
 
-Aqui você encontrará tudo de necessário para a sua jornada. Ah, e não se preocupe: Conforme você explorar o fantástico mundo de Arton o Grimório irá se adaptar, apresentando novos conhecimentos.
+Aqui vocês encontrarão tudo de necessário para a sua jornada. Ah, e não se preocupe: Conforme vocês explorarem o fantástico mundo de Arton o Grimório irá se adaptar, apresentando novos conhecimentos.
 
 Aqui está o [[Índice]], explore conforme seu interesse e curiosidade. 
 
-##### Boa sorte, aventureiro.
+##### Boa sorte, aventureiros.
