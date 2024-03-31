@@ -10,4 +10,3 @@ Inicialmente um presente de *Tanna-Toh* Para seus mais devotos seguidores, agora
 
 Aqui você encontrará tudo de necessário para a sua jornada. Ah, e não se preocupe: Conforme você explorar o fantástico mundo de Arton o Grimório irá se adaptar, apresentando novos conhecimentos.
 
-[[pagina inicial antiga]] só pra testes :0
