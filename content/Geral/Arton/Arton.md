@@ -17,5 +17,5 @@ Medindo cerca de 11.000 km de norte a sul, e 8.000 de oeste a leste, Arton possu
 
 ## Além de Arton
 
-Rumores indicam a existência de outras terras distantes. No passado Arton era conectada com outra ilha e tinha outro nome *Ramnor*, porém com a quebra do Istmo de Hangpharstyth Arton foi separada de sua contraparte, *Lamnor* Não se sabe muito sobre seu estado atual, são contadas apenas lendas de sua antiga glória.
+Rumores indicam a existência de outras terras distantes. No passado Arton era conectada com outra ilha e tinha outro nome *Ramnor*, porém com a quebra do Istmo Arton foi separada de sua contraparte, *Lamnor* Não se sabe muito sobre seu estado atual, são contadas apenas lendas de sua antiga glória.
 Também ao norte contam histórias de um lindo império de jade, com uma cultura e terra rica. Entretanto sua existência nunca foi confirmada.
