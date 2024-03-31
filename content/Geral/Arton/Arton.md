@@ -10,6 +10,7 @@ De acordo com as antigas lendas e os estudos dos grandes intelectuais de [[Salis
 
 <img src="https://preview.redd.it/acgreznsj1671.jpg?auto=webp&s=3d3a64eb42449c47aff165e1c37e6abc17171ee7" width="500">
 >mapa de arton
+
 ## Geografia de Arton
 
 Medindo cerca de 11.000 km de norte a sul, e 8.000 de oeste a leste, Arton possui diversos biomas, completamente diferentes uns dos outros. Das grandiosas dunas áridas como as do [[Deserto da Perdição]] aos picos de gelo das [[Montanhas Uivantes]]. A massa continental de Arton é separada ao meio pelo chamado [[Rio dos Deuses]], um longo rio que percorre por todo o continente, do nordeste ao sudeste. O território insular de Arton é banhado por 2 oceanos: [[O Mar Negro]] e [[O Grande Oceano]].
