@@ -4,7 +4,7 @@ draft: true
 tags:
 ---
 
-![[Arton.webp]]
+![Arton](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FTormenta%2Fcomments%2Fo2rgt1%2Fmapa_de_arton_atualizada_para_tormenta20_em_alta%2F&psig=AOvVaw2IWW8Yo1dSaxXaB5DStspg&ust=1711935658560000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNi_-7WvnYUDFQAAAAAdAAAAABAE)
 > mapa de Arton
 
 ## Histórico
