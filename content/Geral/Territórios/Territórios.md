@@ -3,7 +3,7 @@ title: Territórios
 draft: false
 tags:
 ---
-Arton possuí mais diversos territórios, dispersos por toda o continente 
+Arton possuí mais diversos territórios, dispersos por todo o continente. Em grande parte todos os territórios tem suas próprias alianças e culturas, com visuais distintos e crenças diferentes. Derivados de suas vivências com os [[Deuses]] e seu meio.
 ## Lista de territórios:
 
 1. [[O Reinado]]
@@ -19,10 +19,4 @@ Arton possuí mais diversos territórios, dispersos por toda o continente
 11. [[Montanhas Sanguinárias]]
 12. [[Salistik]]
 13. [[Sckharshantallas]]
-
-
-
-
-
-
 

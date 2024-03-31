@@ -8,7 +8,7 @@ tags:
 Arton é um grande continente, repleto de criaturas fantásticas e paisagens de tirar o fôlego. Entretanto Arton sofre com um grande mal, A [[Tormenta]]. 
 De acordo com as antigas lendas e os estudos dos grandes intelectuais de [[Salistik]] Arton surgiu há cerca de 7 bilhões de anos.
 
-![[content/Assets/Arton.webp|640|480]]
+![[content/Geral/Arton/Arton.webp|680x440]]
 >mapa de arton
 ## Geografia de Arton
 

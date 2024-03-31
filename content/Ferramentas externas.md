@@ -3,9 +3,6 @@ title: Ferramentas externas
 draft: false
 tags:
 ---
-
-Ao mestrar é necessário algumas ferramentas externas que eu considero **essenciais**, aqui estão algumas delas listadas:
-
 Gerar fichas aleatórias, loot, itens mágicos + um mapa interativo:
 [Fichas de Nimb](https://fichasdenimb.com.br)
 
