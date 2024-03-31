@@ -1,26 +1,13 @@
 ---
-title: Página inicial
+title: Grimório do Conhecimento Infinito
 draft: false
 tags:
 ---
-Olá bem vindo a minha mini-wiki de rpg! (mais especificamente tormenta, por agora...)
-## Para Jogadores:
 
-Olá, aventureiro... Você parece confuso. Estou aqui para ajudar. 
+O Grimório do Conhecimento Infinito é um grande tomo, lotado das mais diversas informações sobre o mundo de Arton e os seus residentes.
 
-Tudo que você precisa saber será incluso no [[Grimório do Conhecimento Infinito]].
+Inicialmente um presente de *Tanna-Toh* Para seus mais devotos seguidores, agora perdido para as areias do tempo.
 
-Apenas um presente, para auxilia-los em suas aventuras.
-## Para mestres:
+Aqui você encontrará tudo de necessário para a sua jornada. Ah, e não se preocupe: Conforme você explorar o fantástico mundo de Arton o Grimório irá se adaptar, apresentando novos conhecimentos.
 
-O universo de Tormenta20 se passa no continente de [[Arton]], uma terra fantástica cheia de [[Deuses]], [[Criaturas]] e [[Territórios]] diferentes, e as vezes todo esse conteúdo pode ser um pouco demais. Por isso aqui estão algumas ferramentas e anotações que eu uso enquanto eu mestro!
-
-[[Ferramentas externas]] aqui está a meu arquivo geral, com todas as coisas que eu, como DM, uso.
-
-Aqui também estão as minhas [[Campanhas]]!
-
-
-
-Minhas redes sociais:
-[twitter](https://twitter.com/Vermillion_222)
-[instagram](https://www.instagram.com/ddekaw/) 
+[[pagina inicial antiga]] só pra testes :0
