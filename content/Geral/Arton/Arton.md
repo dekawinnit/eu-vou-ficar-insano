@@ -9,12 +9,9 @@ Arton é um grande continente, repleto de criaturas fantásticas e paisagens de 
 De acordo com as antigas lendas e os estudos dos grandes intelectuais de [[Salistik]] Arton surgiu há cerca de 7 bilhões de anos.
 
 <img src="https://preview.redd.it/acgreznsj1671.jpg?auto=webp&s=3d3a64eb42449c47aff165e1c37e6abc17171ee7" width="700">
-
->mapa de arton
-
 ## Geografia de Arton
 
-Medindo cerca de 11.000 km de norte a sul, e 8.000 de oeste a leste, Arton possui diversos biomas, completamente diferentes uns dos outros. Das grandiosas dunas áridas como as do [[Deserto da Perdição]] aos picos de gelo das [[Montanhas Uivantes]]. A massa continental de Arton é separada ao meio pelo chamado [[Rio dos Deuses]], um longo rio que percorre por todo o continente, do nordeste ao sudeste. O território insular de Arton é banhado por 2 oceanos: [[O Mar Negro]] e [[O Grande Oceano]].
+Medindo cerca de 11.000 km de norte a sul, e 8.000 de oeste a leste, Arton possui diversos biomas, completamente diferentes uns dos outros. Das grandiosas dunas áridas como as do [[Deserto da Perdição]] aos picos de gelo das [[Montanhas Uivantes]]. A massa continental de Arton é separada ao meio pelo chamado [[Rio dos Deuses]], um longo rio que percorre por todo o continente, do nordeste ao sudeste. O território insular de Arton é banhado por 3 oceanos: [[O Mar Negro]], [[O Grande Oceano]] e [[O Mar do Dragão Rei]].
 
 ## Além de Arton
 
