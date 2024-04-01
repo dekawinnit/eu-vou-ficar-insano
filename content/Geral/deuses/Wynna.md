@@ -1,5 +1,5 @@
 ---
-title: Áreas da Tormenta
+title: Wynna
 draft: false
 tags:
 ---
